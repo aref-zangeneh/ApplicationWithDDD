@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApplicationWithDDD.Shared.Abstraction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ae8a92d54f8cc62c1ac5e40b4b09ed984930ff9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11fb0f84942395fed0781789f24b192e70bc005c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApplicationWithDDD.Shared.Abstraction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApplicationWithDDD.Shared.Abstraction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
