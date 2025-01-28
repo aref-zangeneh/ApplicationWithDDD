@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lrYos8Nc6wI=",
+  "dgSpecHash": "63VQ7us5/FE=",
   "success": true,
-  "projectFilePath": "D:\\Programming\\ASP-Core-DDD\\ApplicationWithDDD\\ApplicationWithDDD.Shared.Abstraction\\ApplicationWithDDD.Shared.Abstraction.csproj",
+  "projectFilePath": "D:\\Programming\\ASPNETCORE_DDD_git\\ApplicationWithDDD.Shared.Abstraction\\ApplicationWithDDD.Shared.Abstraction.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

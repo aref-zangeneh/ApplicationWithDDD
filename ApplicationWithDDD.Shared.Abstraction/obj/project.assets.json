@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\ASP-Core-DDD\\ApplicationWithDDD\\ApplicationWithDDD.Shared.Abstraction\\ApplicationWithDDD.Shared.Abstraction.csproj",
+      "projectUniqueName": "D:\\Programming\\ASPNETCORE_DDD_git\\ApplicationWithDDD.Shared.Abstraction\\ApplicationWithDDD.Shared.Abstraction.csproj",
       "projectName": "ApplicationWithDDD.Shared.Abstraction",
-      "projectPath": "D:\\Programming\\ASP-Core-DDD\\ApplicationWithDDD\\ApplicationWithDDD.Shared.Abstraction\\ApplicationWithDDD.Shared.Abstraction.csproj",
+      "projectPath": "D:\\Programming\\ASPNETCORE_DDD_git\\ApplicationWithDDD.Shared.Abstraction\\ApplicationWithDDD.Shared.Abstraction.csproj",
       "packagesPath": "C:\\Users\\Aref\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\ASP-Core-DDD\\ApplicationWithDDD\\ApplicationWithDDD.Shared.Abstraction\\obj\\",
+      "outputPath": "D:\\Programming\\ASPNETCORE_DDD_git\\ApplicationWithDDD.Shared.Abstraction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\ASP-Core-DDD\\ApplicationWithDDD\\ApplicationWithDDD.Domain\\ApplicationWithDDD.Domain.csproj",
+      "projectUniqueName": "D:\\Programming\\ASPNETCORE_DDD_git\\ApplicationWithDDD.Domain\\ApplicationWithDDD.Domain.csproj",
       "projectName": "ApplicationWithDDD.Domain",
-      "projectPath": "D:\\Programming\\ASP-Core-DDD\\ApplicationWithDDD\\ApplicationWithDDD.Domain\\ApplicationWithDDD.Domain.csproj",
+      "projectPath": "D:\\Programming\\ASPNETCORE_DDD_git\\ApplicationWithDDD.Domain\\ApplicationWithDDD.Domain.csproj",
       "packagesPath": "C:\\Users\\Aref\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\ASP-Core-DDD\\ApplicationWithDDD\\ApplicationWithDDD.Domain\\obj\\",
+      "outputPath": "D:\\Programming\\ASPNETCORE_DDD_git\\ApplicationWithDDD.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Programming\\ASP-Core-DDD\\ApplicationWithDDD\\ApplicationWithDDD.Shared.Abstraction\\ApplicationWithDDD.Shared.Abstraction.csproj": {
-              "projectPath": "D:\\Programming\\ASP-Core-DDD\\ApplicationWithDDD\\ApplicationWithDDD.Shared.Abstraction\\ApplicationWithDDD.Shared.Abstraction.csproj"
+            "D:\\Programming\\ASPNETCORE_DDD_git\\ApplicationWithDDD.Shared.Abstraction\\ApplicationWithDDD.Shared.Abstraction.csproj": {
+              "projectPath": "D:\\Programming\\ASPNETCORE_DDD_git\\ApplicationWithDDD.Shared.Abstraction\\ApplicationWithDDD.Shared.Abstraction.csproj"
             }
           }
         }

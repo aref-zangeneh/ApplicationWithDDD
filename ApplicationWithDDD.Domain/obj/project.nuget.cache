@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ah9vV3mSz2g=",
+  "dgSpecHash": "752H/RER/tg=",
   "success": true,
-  "projectFilePath": "D:\\Programming\\ASP-Core-DDD\\ApplicationWithDDD\\ApplicationWithDDD.Domain\\ApplicationWithDDD.Domain.csproj",
+  "projectFilePath": "D:\\Programming\\ASPNETCORE_DDD_git\\ApplicationWithDDD.Domain\\ApplicationWithDDD.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

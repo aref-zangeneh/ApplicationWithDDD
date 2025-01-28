@@ -10,3 +10,15 @@ D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Shared.Abstrac
 D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.pdb
 D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\ref\ApplicationWithDDD.Shared.Abstraction.dll
 D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.sourcelink.json
+D:\Programming\ASPNETCORE_DDD_git\ApplicationWithDDD.Shared.Abstraction\bin\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.deps.json
+D:\Programming\ASPNETCORE_DDD_git\ApplicationWithDDD.Shared.Abstraction\bin\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.dll
+D:\Programming\ASPNETCORE_DDD_git\ApplicationWithDDD.Shared.Abstraction\bin\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.pdb
+D:\Programming\ASPNETCORE_DDD_git\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ASPNETCORE_DDD_git\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.AssemblyInfoInputs.cache
+D:\Programming\ASPNETCORE_DDD_git\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.AssemblyInfo.cs
+D:\Programming\ASPNETCORE_DDD_git\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.csproj.CoreCompileInputs.cache
+D:\Programming\ASPNETCORE_DDD_git\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.sourcelink.json
+D:\Programming\ASPNETCORE_DDD_git\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.dll
+D:\Programming\ASPNETCORE_DDD_git\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\refint\ApplicationWithDDD.Shared.Abstraction.dll
+D:\Programming\ASPNETCORE_DDD_git\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.pdb
+D:\Programming\ASPNETCORE_DDD_git\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\ref\ApplicationWithDDD.Shared.Abstraction.dll
