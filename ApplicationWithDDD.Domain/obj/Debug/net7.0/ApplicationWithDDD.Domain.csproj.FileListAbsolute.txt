@@ -1,0 +1,12 @@
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\bin\Debug\net7.0\ApplicationWithDDD.Domain.deps.json
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\bin\Debug\net7.0\ApplicationWithDDD.Domain.dll
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\bin\Debug\net7.0\ApplicationWithDDD.Domain.pdb
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\obj\Debug\net7.0\ApplicationWithDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\obj\Debug\net7.0\ApplicationWithDDD.Domain.AssemblyInfoInputs.cache
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\obj\Debug\net7.0\ApplicationWithDDD.Domain.AssemblyInfo.cs
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\obj\Debug\net7.0\ApplicationWithDDD.Domain.csproj.CoreCompileInputs.cache
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\obj\Debug\net7.0\ApplicationWithDDD.Domain.dll
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\obj\Debug\net7.0\refint\ApplicationWithDDD.Domain.dll
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\obj\Debug\net7.0\ApplicationWithDDD.Domain.pdb
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\obj\Debug\net7.0\ref\ApplicationWithDDD.Domain.dll
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\obj\Debug\net7.0\ApplicationWithDDD.Domain.csproj.AssemblyReference.cache
