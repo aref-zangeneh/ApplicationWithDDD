@@ -9,3 +9,4 @@ D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Shared.Abstrac
 D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\refint\ApplicationWithDDD.Shared.Abstraction.dll
 D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.pdb
 D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\ref\ApplicationWithDDD.Shared.Abstraction.dll
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Shared.Abstraction\obj\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.sourcelink.json

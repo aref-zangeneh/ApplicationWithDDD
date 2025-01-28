@@ -10,3 +10,7 @@ D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\obj\Deb
 D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\obj\Debug\net7.0\ApplicationWithDDD.Domain.pdb
 D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\obj\Debug\net7.0\ref\ApplicationWithDDD.Domain.dll
 D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\obj\Debug\net7.0\ApplicationWithDDD.Domain.csproj.AssemblyReference.cache
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\bin\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.dll
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\bin\Debug\net7.0\ApplicationWithDDD.Shared.Abstraction.pdb
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\obj\Debug\net7.0\ApplicationWithDDD.Domain.sourcelink.json
+D:\Programming\ASP-Core-DDD\ApplicationWithDDD\ApplicationWithDDD.Domain\obj\Debug\net7.0\Applicat.8B154665.Up2Date

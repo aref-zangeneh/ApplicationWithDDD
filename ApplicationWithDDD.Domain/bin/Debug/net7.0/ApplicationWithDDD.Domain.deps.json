@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "ApplicationWithDDD.Domain/1.0.0": {
+        "dependencies": {
+          "ApplicationWithDDD.Shared.Abstraction": "1.0.0"
+        },
         "runtime": {
           "ApplicationWithDDD.Domain.dll": {}
+        }
+      },
+      "ApplicationWithDDD.Shared.Abstraction/1.0.0": {
+        "runtime": {
+          "ApplicationWithDDD.Shared.Abstraction.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "ApplicationWithDDD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApplicationWithDDD.Shared.Abstraction/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
