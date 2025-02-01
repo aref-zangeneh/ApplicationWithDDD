@@ -7,12 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Commands\" />
     <Folder Include="DomainEvents\" />
-    <Folder Include="Exceptions\" />
-    <Folder Include="DTOs\" />
     <Folder Include="Services\" />
-    <Folder Include="Queries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApplicationWithDDD.Domain\ApplicationWithDDD.Domain.csproj" />
+    <ProjectReference Include="..\ApplicationWithDDD.Shared.Abstraction\ApplicationWithDDD.Shared.Abstraction.csproj" />
   </ItemGroup>
 
 </Project>
