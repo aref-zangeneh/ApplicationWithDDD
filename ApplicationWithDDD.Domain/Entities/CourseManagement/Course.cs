@@ -16,7 +16,7 @@ namespace ApplicationWithDDD.Domain.Entities.CourseManagement
         private LinkedList<CourseAttendee> _courseAttendees;
         private LinkedList<CourseCatalog> _courseCatalogs;
 
-        internal Course(BaseId id, Title title, Description description, bool isFree, Price price, BaseId instructorId, LinkedList<CourseAttendee> courseAttendees, LinkedList<CourseCatalog> courseCatalogs)
+        internal Course(BaseId id, Title title, Description description, bool isFree, Price price, BaseId instructorId)
         {
             Id = id;
             _title = title;
@@ -24,8 +24,6 @@ namespace ApplicationWithDDD.Domain.Entities.CourseManagement
             _isFree = isFree;
             _price = price;
             _instructorId = instructorId;
-            _courseAttendees = courseAttendees;
-            _courseCatalogs = courseCatalogs;
             RaiseDomainEvent(new NewCourseCreatedEvent(this));
         }
 
