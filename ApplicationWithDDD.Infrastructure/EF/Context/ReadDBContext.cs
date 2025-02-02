@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ApplicationWithDDD.Infrastructure.EF.Context
 {
-    internal sealed class ReadDBContext : DbContext
+    public sealed class ReadDBContext : DbContext
     {
         #region    Course Management DbSets
         public DbSet<CourseReadModel> Courses { get; set; }

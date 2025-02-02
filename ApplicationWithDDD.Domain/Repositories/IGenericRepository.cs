@@ -1,4 +1,5 @@
 ﻿
+using ApplicationWithDDD.Domain.Entities.UserManagement;
 using ApplicationWithDDD.Domain.ValueObjects;
 
 namespace ApplicationWithDDD.Domain.Repositories
@@ -12,9 +13,7 @@ namespace ApplicationWithDDD.Domain.Repositories
 
         Task UpdateAsync(T entity);
 
-        Task DeleteAsync(BaseId id);
-
-
+        Task DeleteAsync(T entity);
 
     }
 }

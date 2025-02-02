@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationWithDDD.Applicat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationWithDDD.Infrastructure", "ApplicationWithDDD.Infrastructure\ApplicationWithDDD.Infrastructure.csproj", "{D6AD7591-6FCC-4F1C-9ABE-37DF937A43DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationWithDDD.API", "ApplicationWithDDD.API\ApplicationWithDDD.API.csproj", "{08652C0F-6070-4C32-B594-DA0E464F0612}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +42,10 @@ Global
 		{D6AD7591-6FCC-4F1C-9ABE-37DF937A43DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6AD7591-6FCC-4F1C-9ABE-37DF937A43DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6AD7591-6FCC-4F1C-9ABE-37DF937A43DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08652C0F-6070-4C32-B594-DA0E464F0612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08652C0F-6070-4C32-B594-DA0E464F0612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08652C0F-6070-4C32-B594-DA0E464F0612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08652C0F-6070-4C32-B594-DA0E464F0612}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
