@@ -1,5 +1,6 @@
 ﻿
 using ApplicationWithDDD.Domain.DomainEvents;
+using ApplicationWithDDD.Domain.Entities.CourseManagement;
 using ApplicationWithDDD.Domain.Primitives;
 using ApplicationWithDDD.Domain.ValueObjects;
 using ApplicationWithDDD.Shared.Abstraction.Domain;
@@ -13,6 +14,7 @@ namespace ApplicationWithDDD.Domain.Entities.UserManagement
         private Email _email;
         private bool _isConfirmed;
         private LinkedList<UserRole> _userRoles;
+        private LinkedList<CourseAttendee> _courseAttendees;
 
         internal User(BaseId id, Username username, Password passwordHash, Email email, bool isConfirmed)
         {
