@@ -43,10 +43,10 @@ namespace ApplicationWithDDD.Infrastructure.EF.Repositories
             await _dbContext.SaveChangesAsync();
         }
 
-        public async Task DeleteAsync(User entity)
+        public async Task DeleteAsync(BaseId id)
         {
             _dbContext.Users
-                .Remove(entity);
+                .Where(u => u.Id == id);
             await _dbContext.SaveChangesAsync();
         }
     }

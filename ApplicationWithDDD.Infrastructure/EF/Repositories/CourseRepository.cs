@@ -42,10 +42,10 @@ namespace ApplicationWithDDD.Infrastructure.EF.Repositories
             await _dbContext.SaveChangesAsync();
         }
 
-        public async Task DeleteAsync(Course entity)
+        public async Task DeleteAsync(BaseId id)
         {
             _dbContext.Courses
-                .Remove(entity);
+                .Where(c => c.Id == id);
             await _dbContext.SaveChangesAsync();
         }
     }
