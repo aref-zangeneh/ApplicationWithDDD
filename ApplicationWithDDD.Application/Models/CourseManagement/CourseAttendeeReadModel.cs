@@ -1,6 +1,6 @@
-﻿using ApplicationWithDDD.Infrastructure.EF.Models.UserManagement;
+﻿using ApplicationWithDDD.Application.Models.UserManagement;
 
-namespace ApplicationWithDDD.Infrastructure.EF.Models.CourseManagement
+namespace ApplicationWithDDD.Application.Models.CourseManagement
 {
     public class CourseAttendeeReadModel : BaseReadModel
     {

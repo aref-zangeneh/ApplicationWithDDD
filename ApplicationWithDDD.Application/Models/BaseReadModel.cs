@@ -1,6 +1,6 @@
 ﻿
 
-namespace ApplicationWithDDD.Infrastructure.EF.Models
+namespace ApplicationWithDDD.Application.Models
 {
     public class BaseReadModel
     {

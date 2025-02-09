@@ -1,6 +1,6 @@
 ﻿
 
-using ApplicationWithDDD.Infrastructure.EF.Models.CourseManagement;
+using ApplicationWithDDD.Application.Models.CourseManagement;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 

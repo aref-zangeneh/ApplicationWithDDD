@@ -1,6 +1,7 @@
 ﻿
 
-namespace ApplicationWithDDD.Infrastructure.EF.Models.CourseManagement
+
+namespace ApplicationWithDDD.Application.Models.CourseManagement
 {
     public class CourseCatalogReadModel : BaseReadModel
     {

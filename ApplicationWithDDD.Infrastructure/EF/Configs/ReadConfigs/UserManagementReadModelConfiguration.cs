@@ -1,6 +1,6 @@
 ﻿
 
-using ApplicationWithDDD.Infrastructure.EF.Models.UserManagement;
+using ApplicationWithDDD.Application.Models.UserManagement;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;

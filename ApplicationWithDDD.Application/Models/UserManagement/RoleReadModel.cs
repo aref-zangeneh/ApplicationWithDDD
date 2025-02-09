@@ -1,4 +1,4 @@
-﻿namespace ApplicationWithDDD.Infrastructure.EF.Models.UserManagement
+﻿namespace ApplicationWithDDD.Application.Models.UserManagement
 {
     public class RoleReadModel : BaseReadModel
     {

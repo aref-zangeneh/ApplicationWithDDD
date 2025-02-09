@@ -1,7 +1,8 @@
-﻿using ApplicationWithDDD.Infrastructure.EF.Models.CourseManagement;
-using ApplicationWithDDD.Infrastructure.EF.Models.UserManagement;
+﻿using ApplicationWithDDD.Application.Models;
+using ApplicationWithDDD.Application.Models.CourseManagement;
+using ApplicationWithDDD.Application.Models.UserManagement;
 
-namespace ApplicationWithDDD.Infrastructure.EF.Models.PaymentManagement
+namespace ApplicationWithDDD.Application.Models.PaymentManagement
 {
     public class InvoiceReadModel : BaseReadModel
     {

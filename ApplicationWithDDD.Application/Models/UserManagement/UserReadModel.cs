@@ -1,9 +1,9 @@
 ﻿
 
-using ApplicationWithDDD.Infrastructure.EF.Models.CourseManagement;
-using ApplicationWithDDD.Infrastructure.EF.Models.PaymentManagement;
+using ApplicationWithDDD.Application.Models.CourseManagement;
+using ApplicationWithDDD.Application.Models.PaymentManagement;
 
-namespace ApplicationWithDDD.Infrastructure.EF.Models.UserManagement
+namespace ApplicationWithDDD.Application.Models.UserManagement
 {
     public class UserReadModel : BaseReadModel
     {

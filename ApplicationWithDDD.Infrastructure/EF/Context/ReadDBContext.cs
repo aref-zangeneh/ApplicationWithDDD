@@ -1,8 +1,8 @@
 ﻿
 using ApplicationWithDDD.Infrastructure.EF.Configs.ReadConfigs;
-using ApplicationWithDDD.Infrastructure.EF.Models.CourseManagement;
-using ApplicationWithDDD.Infrastructure.EF.Models.PaymentManagement;
-using ApplicationWithDDD.Infrastructure.EF.Models.UserManagement;
+using ApplicationWithDDD.Application.Models.CourseManagement;
+using ApplicationWithDDD.Application.Models.PaymentManagement;
+using ApplicationWithDDD.Application.Models.UserManagement;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApplicationWithDDD.Infrastructure.EF.Context
